@@ -14,7 +14,8 @@ import org.w3c.dom.NodeList;
 import org.w3c.dom.Text;
 
 /**
- * Utility to purge old versions of the timestamped snapshot artefacts from the local maven cache for the current user
+ * Utility to purge old versions of the timestamped snapshot artefacts from the local maven cache for the current user.
+ * This App doesn't belong to mee.
  */
 public class Launcher {
     private static final String OPT_DIR = "-dir";
